@@ -27,12 +27,6 @@
 <a target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" /></a>
 </p>
 
-<h2>📌 Featured Projects</h2>
-
-<p>🔍 <b>AI Compliance Monitoring System</b> – Built an AI system to monitor and analyze compliance data using NLP & LLMs</p>
-<p>📚 <b>AI Course Generator</b> – Generates structured learning content using AI (Spring Boot + React + LLMs)</p>
-<p>🤖 <b>AI Knowledge Assistant</b> – Intelligent assistant using RAG for contextual answers (LangChain + ChromaDB)</p>
-
 <h2>📊 GitHub Stats</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Satheesh127&show_icons=true&theme=tokyonight" /></p>
