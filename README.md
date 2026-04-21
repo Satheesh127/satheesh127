@@ -1,8 +1,3 @@
-my git profile show like this . 
-i don't want like (skil)
-one by one  vertically . 
-i want horizontally . 
-
 <h1>👋 I'm Satheesh A</h1>
 
 <p>💡 I'm currently a <b>AI & Full Stack Developer</b></p>
