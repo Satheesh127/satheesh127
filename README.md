@@ -9,42 +9,6 @@
 ⚡ Focused on <b>Backend Engineering, System Design, and AI Integration</b>
 </p>
 
----
-
-<h2>🚀 What I Do</h2>
-
-<ul>
-<li>🤖 Build <b>AI-powered applications</b> (RAG, NLP, Computer Vision)</li>
-<li>🌐 Develop <b>Full Stack Web Apps</b> using MERN & Spring Boot</li>
-<li>⚙️ Design <b>REST APIs, authentication systems, and scalable backends</b></li>
-<li>📊 Work with <b>ML models & data pipelines</b></li>
-</ul>
-
----
-
-<h2>🔥 Featured Projects</h2>
-
-<ul>
-<li>
-<b>🧠 Image RAG Assistant</b><br>
-→ Extracts text using OCR + retrieves context using vector DB + answers using LLM<br>
-→ Tech: Python, OpenCV, FAISS, Streamlit<br>
-</li>
-
-<li>
-<b>💬 AI Chatbot with Memory</b><br>
-→ Context-aware chatbot with persistent memory and conversation tracking<br>
-→ Tech: LangChain, OpenAI API, Node.js<br>
-</li>
-
-<li>
-<b>📦 Scalable REST API System</b><br>
-→ JWT authentication, role-based access, file uploads<br>
-→ Tech: Spring Boot, MySQL<br>
-</li>
-</ul>
-
----
 
 <h2>🧠 Tech Stack</h2>
 
