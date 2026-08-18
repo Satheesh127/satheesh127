@@ -2,7 +2,7 @@
 
 <p>💡 I'm currently a <b>AI & Backend  Development</b></p>
 <p>🎓 I am currently pursuing my <b>B.Tech in Artificial Intelligence & Data Science</b> at Sri Eshwar College of Engineering</p>  
-<p>🚀 Passionate about <b>Artificial Intelligence, Machine Learning, and Full-Stack Development</b></p>  
+<p>🚀 Passionate about <b>Artificial Intelligence, Machine Learning, and Backend Development</b></p>  
 <p>🧠 Solved <b>500+ problems on LeetCode</b> and continuously improving my DSA skills</p>  
 <p>⚡ Focused on building <b>scalable AI systems & real-world applications</b></p>  
 <p>🤖 Worked on projects involving <b>AI-powered automation, RAG systems, and intelligent assistants</b></p>  
